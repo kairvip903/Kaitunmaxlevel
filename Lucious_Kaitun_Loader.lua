@@ -8,6 +8,8 @@ getgenv().SettingFarm = {
     },
     ["Get Items"] = {
         ["Godhuman"] = true,
+        ["Cursed Dual Katana"] = true,
+        ["Auto Pull Lever"] = true,
     },
     ["Farm Fragments"] = {
         ["Enabled"] = false,
