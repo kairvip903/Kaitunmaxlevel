@@ -29,6 +29,11 @@ getgenv().SettingFarm = {
         ["Enabled"] = true,
         ["Fruit"] = {"Leopard-Leopard", "Kitsune-Kitsune", "Dragon-Dragon", "Yeti-Yeti", "Gas-Gas"},
     },
+    ["Fruit"] = {
+        ["Random"] = true,
+        ["Store"] = true,
+        ["Collect"] = true,
+    },
     ["Lock Fruit"] = {},
     ["Webhook"] = {
         ["Enabled"] = false,
