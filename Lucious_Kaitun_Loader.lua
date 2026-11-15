@@ -6,7 +6,17 @@ getgenv().Kaitun = {
         CDK = true,
         PullLever = true,
     },
-    Race = "Keep",
+    Race = {
+        Ghoul = false,
+        Cyborg = false,
+    },
+    Stats = {
+        Melee = 0,
+        Defense = 0,
+        Sword = 0,
+        Gun = 0,
+        Fruit = 0,
+    },
     Haki = {
         Buso = true,
         Geppo = true,
